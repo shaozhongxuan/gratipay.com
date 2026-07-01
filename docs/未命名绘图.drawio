@@ -7,7 +7,7 @@
         <mxCell id="6vqlDNb-U1caPNdicyA2-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="交易所" vertex="1">
           <mxGeometry height="80" width="120" x="-190" y="170" as="geometry" />
         </mxCell>
-        <mxCell id="6vqlDNb-U1caPNdicyA2-3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;strokeWidth=3;fillColor=#7EA6E0;" value="银期备" vertex="1">
+        <mxCell id="6vqlDNb-U1caPNdicyA2-3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;strokeWidth=3;fillColor=#f8cecc;strokeColor=#b85450;" value="银期备" vertex="1">
           <mxGeometry height="80" width="120" x="-300" y="170" as="geometry" />
         </mxCell>
         <mxCell id="6vqlDNb-U1caPNdicyA2-10" parent="1" style="swimlane;fillColor=#7EA6E0;" value="吉山-备中心" vertex="1">
@@ -18,7 +18,7 @@
         <mxCell id="6vqlDNb-U1caPNdicyA2-5" parent="6vqlDNb-U1caPNdicyA2-10" style="shape=datastore;whiteSpace=wrap;html=1;" value="吉山备库" vertex="1">
           <mxGeometry height="60" width="60" x="70" y="327" as="geometry" />
         </mxCell>
-        <mxCell id="6vqlDNb-U1caPNdicyA2-21" parent="6vqlDNb-U1caPNdicyA2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="drmt" vertex="1">
+        <mxCell id="6vqlDNb-U1caPNdicyA2-21" parent="6vqlDNb-U1caPNdicyA2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#b85450;fillColor=#f8cecc;" value="drmt" vertex="1">
           <mxGeometry height="44" width="44" x="10" y="314" as="geometry" />
         </mxCell>
         <mxCell id="UYVorq27KTC4VA22ieY8-11" parent="6vqlDNb-U1caPNdicyA2-10" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="报盘Offer" vertex="1">
@@ -48,7 +48,7 @@
         <mxCell id="UYVorq27KTC4VA22ieY8-54" parent="6vqlDNb-U1caPNdicyA2-10" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;boundedLbl=1;" value="交易核心" vertex="1">
           <mxGeometry height="60" width="100" x="60" y="95" as="geometry" />
         </mxCell>
-        <mxCell id="UYVorq27KTC4VA22ieY8-85" parent="6vqlDNb-U1caPNdicyA2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="tinit" vertex="1">
+        <mxCell id="UYVorq27KTC4VA22ieY8-85" parent="6vqlDNb-U1caPNdicyA2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="tinit" vertex="1">
           <mxGeometry height="44" width="44" x="206" y="327" as="geometry" />
         </mxCell>
         <mxCell id="UYVorq27KTC4VA22ieY8-140" parent="6vqlDNb-U1caPNdicyA2-10" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;boundedLbl=1;" value="风控系统" vertex="1">
@@ -57,7 +57,7 @@
         <mxCell id="UYVorq27KTC4VA22ieY8-141" parent="6vqlDNb-U1caPNdicyA2-10" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;boundedLbl=1;" value="结算系统" vertex="1">
           <mxGeometry height="60" width="100" x="60" y="195" as="geometry" />
         </mxCell>
-        <mxCell id="UYVorq27KTC4VA22ieY8-149" parent="6vqlDNb-U1caPNdicyA2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="oprdis&lt;div&gt;patcher&lt;/div&gt;" vertex="1">
+        <mxCell id="UYVorq27KTC4VA22ieY8-149" parent="6vqlDNb-U1caPNdicyA2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="oprdis&lt;div&gt;patcher&lt;/div&gt;" vertex="1">
           <mxGeometry height="44" width="44" x="206" y="270" as="geometry" />
         </mxCell>
         <mxCell id="6vqlDNb-U1caPNdicyA2-11" parent="1" style="swimlane;fillColor=#E6FFCC;" value="唐镇-主中心" vertex="1">
@@ -74,7 +74,7 @@
         <mxCell id="6vqlDNb-U1caPNdicyA2-6" parent="6vqlDNb-U1caPNdicyA2-11" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#CCFFCC;" value="唐镇主库" vertex="1">
           <mxGeometry height="60" width="60" x="124" y="331" as="geometry" />
         </mxCell>
-        <mxCell id="6vqlDNb-U1caPNdicyA2-22" parent="6vqlDNb-U1caPNdicyA2-11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="drmt" vertex="1">
+        <mxCell id="6vqlDNb-U1caPNdicyA2-22" parent="6vqlDNb-U1caPNdicyA2-11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="drmt" vertex="1">
           <mxGeometry height="54" width="54" x="19" y="331" as="geometry" />
         </mxCell>
         <mxCell id="UYVorq27KTC4VA22ieY8-20" parent="6vqlDNb-U1caPNdicyA2-11" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" value="报盘Offer" vertex="1">
@@ -107,7 +107,7 @@
         <mxCell id="UYVorq27KTC4VA22ieY8-26" parent="UYVorq27KTC4VA22ieY8-61" style="rounded=0;whiteSpace=wrap;html=1;" value="前置4" vertex="1">
           <mxGeometry height="51.42857142857142" width="20" y="55.71428571428571" as="geometry" />
         </mxCell>
-        <mxCell id="UYVorq27KTC4VA22ieY8-79" parent="6vqlDNb-U1caPNdicyA2-11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="sync&lt;div&gt;merge&lt;/div&gt;" vertex="1">
+        <mxCell id="UYVorq27KTC4VA22ieY8-79" parent="6vqlDNb-U1caPNdicyA2-11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" value="sync&lt;div&gt;merge&lt;/div&gt;" vertex="1">
           <mxGeometry height="54" width="54" x="16" y="250" as="geometry" />
         </mxCell>
         <mxCell id="UYVorq27KTC4VA22ieY8-138" parent="6vqlDNb-U1caPNdicyA2-11" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;boundedLbl=1;" value="风控系统" vertex="1">
@@ -116,7 +116,7 @@
         <mxCell id="UYVorq27KTC4VA22ieY8-139" parent="6vqlDNb-U1caPNdicyA2-11" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;boundedLbl=1;" value="结算系统" vertex="1">
           <mxGeometry height="60" width="100" x="66" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="6vqlDNb-U1caPNdicyA2-12" parent="1" style="swimlane;fillColor=#FFCCE6;direction=west;" value="农商行-分中心" vertex="1">
+        <mxCell id="6vqlDNb-U1caPNdicyA2-12" parent="1" style="swimlane;fillColor=#ffcccc;direction=west;strokeColor=#36393d;" value="农商行-分中心" vertex="1">
           <mxGeometry height="290" width="350" x="15.5" y="850" as="geometry">
             <mxRectangle height="30" width="120" x="290" y="800" as="alternateBounds" />
           </mxGeometry>
@@ -136,11 +136,11 @@
         <mxCell id="UYVorq27KTC4VA22ieY8-62" parent="6vqlDNb-U1caPNdicyA2-12" style="rounded=0;whiteSpace=wrap;html=1;" value="前置2" vertex="1">
           <mxGeometry height="29.24" width="70" x="150" y="0.76" as="geometry" />
         </mxCell>
-        <mxCell id="UYVorq27KTC4VA22ieY8-86" parent="6vqlDNb-U1caPNdicyA2-12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="tinit" vertex="1">
+        <mxCell id="UYVorq27KTC4VA22ieY8-86" parent="6vqlDNb-U1caPNdicyA2-12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" value="tinit" vertex="1">
           <mxGeometry height="44" width="44" x="304.5" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="UYVorq27KTC4VA22ieY8-147" parent="6vqlDNb-U1caPNdicyA2-12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="oprdis&lt;div&gt;patcher&lt;/div&gt;" vertex="1">
-          <mxGeometry height="44" width="44" x="306" y="30" as="geometry" />
+        <mxCell id="UYVorq27KTC4VA22ieY8-147" parent="6vqlDNb-U1caPNdicyA2-12" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" value="oprdis&lt;div&gt;patcher&lt;/div&gt;" vertex="1">
+          <mxGeometry height="44" width="44" x="304.5" y="50" as="geometry" />
         </mxCell>
         <mxCell id="6vqlDNb-U1caPNdicyA2-20" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;dashed=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" value="银期主" vertex="1">
           <mxGeometry height="80" width="120" x="630" y="180" as="geometry" />

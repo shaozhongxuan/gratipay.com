@@ -208,7 +208,6 @@
         <mxCell id="UYVorq27KTC4VA22ieY8-196" edge="1" parent="1" source="UYVorq27KTC4VA22ieY8-110" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=3;" target="UYVorq27KTC4VA22ieY8-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="160" y="390" />
               <mxPoint x="20" y="130" />
             </Array>
             <mxPoint x="10.950000000000003" y="597.29" as="sourcePoint" />

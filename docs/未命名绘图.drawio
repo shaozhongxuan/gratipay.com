@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6vqlDNb-U1caPNdicyA2-5" parent="6vqlDNb-U1caPNdicyA2-10" style="shape=datastore;whiteSpace=wrap;html=1;" value="吉山备库" vertex="1">
-          <mxGeometry height="60" width="60" x="60" y="240" as="geometry" />
+          <mxGeometry height="60" width="60" x="70" y="327" as="geometry" />
         </mxCell>
         <mxCell id="6vqlDNb-U1caPNdicyA2-21" parent="6vqlDNb-U1caPNdicyA2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="drmt" vertex="1">
           <mxGeometry height="44" width="44" x="200" y="335" as="geometry" />
@@ -52,10 +52,16 @@
           <mxGeometry height="51.42857142857142" width="20" y="51.42857142857142" as="geometry" />
         </mxCell>
         <mxCell id="UYVorq27KTC4VA22ieY8-54" parent="6vqlDNb-U1caPNdicyA2-10" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;boundedLbl=1;" value="交易核心" vertex="1">
-          <mxGeometry height="60" width="100" x="60" y="119" as="geometry" />
+          <mxGeometry height="60" width="100" x="60" y="95" as="geometry" />
         </mxCell>
         <mxCell id="UYVorq27KTC4VA22ieY8-85" parent="6vqlDNb-U1caPNdicyA2-10" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="tinit" vertex="1">
           <mxGeometry height="44" width="44" x="170" y="196" as="geometry" />
+        </mxCell>
+        <mxCell id="UYVorq27KTC4VA22ieY8-140" parent="6vqlDNb-U1caPNdicyA2-10" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;boundedLbl=1;" value="风控系统" vertex="1">
+          <mxGeometry height="60" width="100" x="60" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="UYVorq27KTC4VA22ieY8-141" parent="6vqlDNb-U1caPNdicyA2-10" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;boundedLbl=1;" value="结算系统" vertex="1">
+          <mxGeometry height="60" width="100" x="60" y="195" as="geometry" />
         </mxCell>
         <mxCell id="6vqlDNb-U1caPNdicyA2-11" parent="1" style="swimlane;fillColor=#E6FFCC;" value="唐镇-主中心" vertex="1">
           <mxGeometry height="400" width="310" x="430" y="260" as="geometry">
@@ -104,17 +110,21 @@
         <mxCell id="UYVorq27KTC4VA22ieY8-26" parent="UYVorq27KTC4VA22ieY8-61" style="rounded=0;whiteSpace=wrap;html=1;" value="前置4" vertex="1">
           <mxGeometry height="51.42857142857142" width="20" y="55.71428571428571" as="geometry" />
         </mxCell>
-        <mxCell id="UYVorq27KTC4VA22ieY8-75" edge="1" parent="6vqlDNb-U1caPNdicyA2-11" source="6vqlDNb-U1caPNdicyA2-6" style="endArrow=classic;html=1;rounded=0;exitX=0.85;exitY=0.05;exitDx=0;exitDy=0;exitPerimeter=0;" target="6vqlDNb-U1caPNdicyA2-7" value="">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-125" y="530" as="sourcePoint" />
-            <mxPoint x="35" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UYVorq27KTC4VA22ieY8-76" connectable="0" parent="UYVorq27KTC4VA22ieY8-75" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" value="Dsg全库同步" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="UYVorq27KTC4VA22ieY8-79" parent="6vqlDNb-U1caPNdicyA2-11" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="sync&lt;div&gt;merge&lt;/div&gt;" vertex="1">
           <mxGeometry height="54" width="54" x="16" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="UYVorq27KTC4VA22ieY8-138" parent="6vqlDNb-U1caPNdicyA2-11" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;boundedLbl=1;" value="风控系统" vertex="1">
+          <mxGeometry height="60" width="100" x="66" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UYVorq27KTC4VA22ieY8-139" parent="6vqlDNb-U1caPNdicyA2-11" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;boundedLbl=1;" value="结算系统" vertex="1">
+          <mxGeometry height="60" width="100" x="66" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UYVorq27KTC4VA22ieY8-146" edge="1" parent="6vqlDNb-U1caPNdicyA2-11" source="6vqlDNb-U1caPNdicyA2-6" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.15;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;exitPerimeter=0;" target="6vqlDNb-U1caPNdicyA2-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-70" y="280" as="sourcePoint" />
+            <mxPoint x="-20" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6vqlDNb-U1caPNdicyA2-12" parent="1" style="swimlane;fillColor=#FFCCE6;direction=west;" value="农商行-分中心" vertex="1">
           <mxGeometry height="290" width="350" x="15.5" y="850" as="geometry">
@@ -260,6 +270,23 @@
         </mxCell>
         <mxCell id="UYVorq27KTC4VA22ieY8-137" edge="1" parent="1" source="UYVorq27KTC4VA22ieY8-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="UYVorq27KTC4VA22ieY8-86">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UYVorq27KTC4VA22ieY8-144" edge="1" parent="1" source="6vqlDNb-U1caPNdicyA2-6" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.7;entryDx=0;entryDy=0;exitX=-0.01;exitY=0.856;exitDx=0;exitDy=0;elbow=vertical;fillColor=#d5e8d4;strokeColor=#82b366;exitPerimeter=0;" target="6vqlDNb-U1caPNdicyA2-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="670" />
+              <mxPoint x="430" y="700" />
+              <mxPoint x="350" y="710" />
+              <mxPoint x="270" y="710" />
+              <mxPoint x="210" y="710" />
+              <mxPoint x="150" y="700" />
+              <mxPoint x="50" y="680" />
+              <mxPoint x="-60" y="660" />
+              <mxPoint x="-110" y="650" />
+            </Array>
+            <mxPoint x="360" y="920" as="sourcePoint" />
+            <mxPoint x="410" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

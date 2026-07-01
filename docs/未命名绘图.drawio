@@ -286,6 +286,9 @@
         <mxCell id="UYVorq27KTC4VA22ieY8-191" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="客户" vertex="1">
           <mxGeometry height="30" width="60" x="130" y="185" as="geometry" />
         </mxCell>
+        <mxCell id="UYVorq27KTC4VA22ieY8-193" edge="1" parent="1" source="UYVorq27KTC4VA22ieY8-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="UYVorq27KTC4VA22ieY8-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
